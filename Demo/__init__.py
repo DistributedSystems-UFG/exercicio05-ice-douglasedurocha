@@ -6,5 +6,6 @@ Ice.updateModule("Demo")
 
 # Modules:
 import Printer_ice
+import Calculator_ice
 
 # Submodules:
